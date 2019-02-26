@@ -10,7 +10,6 @@ NPM 6.8.0
 ### Install
 ```
 npm install
-npm start
 ```
 
 ### Run
