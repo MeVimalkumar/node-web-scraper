@@ -28,4 +28,4 @@ To view the outcome in browser please go to
 * [http://localhost:3000/](http://localhost:3000/)
 
 ### Author
-* ** Vimalkumar Bohara **
+* **Vimalkumar Bohara**
