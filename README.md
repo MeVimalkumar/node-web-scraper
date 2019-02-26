@@ -13,6 +13,11 @@ npm install
 npm start
 ```
 
+### Run
+```
+npm start
+```
+
 ### API
 Make API call from postman or make a curl request to
 ```
@@ -20,10 +25,8 @@ http://localhost:3000/fetchUrls/
 ```
 
 ### Outcome
-To view the outcome/result in browser please go to
-```
-http://localhost:3000/
-```
+To view the outcome in browser please go to
+* [http://localhost:3000/](http://localhost:3000/)
 
 ### Author
 * ** Vimalkumar Bohara **
